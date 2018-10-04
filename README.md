@@ -1,4 +1,3 @@
 # hello-world
 
-Finally committed some 
-New Change added
+Finally committed some change
